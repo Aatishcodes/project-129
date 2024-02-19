@@ -1,0 +1,62 @@
+.heading {
+    width: 100%;
+    margin: 0px;
+    font-size: 24px;
+}
+
+.heading:hover {
+    background-color: crimson;
+    color: whitesmoke;
+    font-style: italic;
+    font-family:'Bebas Neue', sans-serif;
+    font-size: 45px;
+
+}
+
+.note {
+    font-size: 15px;
+    color: black;
+}
+
+body {
+    background-size: cover;
+}
+
+.div_speed {
+    float: left;
+}
+
+.div_img {
+    width: 200px;
+    border-radius: 100px;
+}
+
+#speed{
+    font-size: 22px;
+    margin: 20px;
+    float: left;
+}
+
+.div_volume {
+    float: right;
+
+}
+
+#volume{
+    font-size: 22px;
+    margin: 20px;
+}
+
+canvas {
+    border-color: white;
+    border-width: 3px;
+    border-style: groove;
+}
+
+.playbtn {
+    font-size: 20px;
+    width: 120px;
+    letter-spacing: 15px;
+    font-weight: bold;
+}
+
